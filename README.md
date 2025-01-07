@@ -72,6 +72,6 @@ Contact
 
 For any questions or support, please contact:
 
-Your Name: shantanuundepatil@gmail.com
+shantanuundepatil@gmail.com
 
 GitHub: subtlemortal
